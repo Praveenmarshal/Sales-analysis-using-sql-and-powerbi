@@ -134,13 +134,17 @@ Pizza-Sales-Analytics/
 
 ## 👨‍💻 Author
 
-**Kicha**
+if you have any doubts contact me
 
-Aspiring **Data Analyst** passionate about transforming data into meaningful insights.
+Name: praveen k
 
-📌 LinkedIn: www.linkedin.com/in/praveen-kannan-6862382a2
-📌 GitHub: https://github.com/praveenmarshal
----
+phone: 8825870266
+
+Email: praveenkicha01@gmail.com
+
+GitHub: https://github.com/Praveenmarshal
+
+LinkedIn: https://www.linkedin.com/in/praveen-kannan-6862382a2
 
 ## ⭐ If you like this project
 
