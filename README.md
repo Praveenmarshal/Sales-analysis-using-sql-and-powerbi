@@ -134,7 +134,7 @@ Pizza-Sales-Analytics/
 
 ## 👨‍💻 Author
 
-if you have any doubts contact me
+If you have feedback or suggestions, feel free to connect.
 
 Name: praveen k
 
